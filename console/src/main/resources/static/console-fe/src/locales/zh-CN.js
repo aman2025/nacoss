@@ -57,6 +57,7 @@ const I18N_CONF = {
     userList: '用户列表',
     roleManagement: '角色管理',
     privilegeManagement: '权限管理',
+    music: '混合云',
   },
   Password: {
     passwordNotConsistent: '两次输入密码不一致',

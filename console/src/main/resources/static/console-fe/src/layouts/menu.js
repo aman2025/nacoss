@@ -79,6 +79,10 @@ export default function(model) {
       url: '/namespace',
     },
     {
+      key: 'music',
+      url: '/music',
+    },
+    {
       key: 'clusterManagementVirtual',
       children: [
         {
